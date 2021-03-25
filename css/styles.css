@@ -1,0 +1,39 @@
+.invisible{
+    display: none;
+}
+
+.errorMessage{
+    color: red;
+}
+
+header{
+    padding: 20px 0;
+}
+.content{
+    max-width:500px;
+    margin:auto;
+    padding: 10px 0;
+}
+.center{
+    text-align: center;
+}
+input[type=text], input[type=password], input[type=email], input[type=date] {
+    width: 100%;
+    padding: 15px;
+    margin: 2px 0 5px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: steelblue;
+    color: white;
+    text-align: center;
+}
+
+.hasError{
+    background-color: yellow !important;
+}
