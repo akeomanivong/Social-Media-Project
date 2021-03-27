@@ -13,7 +13,8 @@ We currently have a [sign-in page](signin.html), [sign-up page](signup.html), an
 
 The sign-in page allows the user to input their credentials to gain access to their account on our social media page. It has a link that brings the user to the sign up page if they do not have an account.
 
-The sign up page asks the user for their user information in order for them to create an account. It also contains a link for the user to return to the sign-in page.
+The sign up page asks the user for their user information in order for them to create an account. It also contains a link for the user to return to the sign-in page. <br/>
+__3/17/2021:__ Implemented form validation functions. This includes checking that "password" and "confirm password" match, no special characters (<, >, #, -, {, }, (), ', ", \`) are in any input fields, and the password contains a small letter, a capital letter, and a number. Any errors will prevent the form from submitting and the respective form boxes will be highlighted. An alert will show for invalid characters, while the password boxes will have an error message shown below them. In addition, the security question answer box will not appear until the user selects a question.
 
 The homepage contains a sidebar with several links the user may find useful. At the moment, it has no content.
 
