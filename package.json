@@ -1,0 +1,28 @@
+{
+  "name": "SocialMediaProject",
+  "version": "1.0.0",
+  "description": "This is our social media project for CSCI 4800 E01: Web Application Development. The goal of this project is to create a social media page that implements the concepts we have learned in class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akeomanivong/Social-Media-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akeomanivong/Social-Media-Project/issues"
+  },
+  "homepage": "https://github.com/akeomanivong/Social-Media-Project#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "http-status-codes": "^2.1.4",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.4"
+  }
+}
