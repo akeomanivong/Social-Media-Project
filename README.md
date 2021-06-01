@@ -23,7 +23,6 @@ The homepage contains a sidebar with several links the user may find useful. At 
 
 __3/17/2021:__ Implemented form validation functions. This includes checking that "password" and "confirm password" match, no special characters (<, >, #, -, {, }, (), ', ", \`) are in any input fields, and the password contains a small letter, a capital letter, and a number. Any errors will prevent the form from submitting and the respective form boxes will be highlighted. An alert will show for invalid characters, while the password boxes will have an error message shown below them. In addition, the security question answer box will not appear until the user selects a question.
 
-__5/13/2021 FINAL EDIT:__ We understand that the web application is not deployed properly and crashes upon clicking the link. The build succeeds but other errors result in the web application not deploying properly. The web app is connected to a MongoDB Cloud server. All code can be found in the repository. We both understand and acknowledge that we should have utilized office hours and the TA more than we have in order to make sure we submit a decent final project.
 
 
 
@@ -34,5 +33,3 @@ This project is far from complete. The process of creating this project has been
 Learning can be a messy process and our code reflects that in some areas. As we progress, we will constantly be refactoring our code to make it more overall robust and readable and to ensure it follows standard coding practices.
 
 This isn't the prettiest looking application right now. We will update the aesthetic as we obtain a better idea of the overall direction and feel of the page. Basic functionality is the main focus as we want the page to work before anything else. However, beautification is still a high priority, as we want our users to have a pleasant experience.
-
-__5/13/2021 FINAL EDIT:__ Moving forward, we have learned to take better steps and initiative towards completing assignments and projects. We will learn from our mistakes and ensure that we become better students and programmers as we continue with our curriculum and careers.
